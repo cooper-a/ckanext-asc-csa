@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-csa 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-12 16:06-0400\n"
+"POT-Creation-Date: 2020-10-24 13:17-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,6 +96,14 @@ msgstr ""
 
 #: ckanext/csa/fanstatic/wet-boew/js/MathJax/extensions/HelpDialog.js:19
 msgid "HelpDialog"
+msgstr ""
+
+#: ckanext/csa/templates/error_document_template.html:9
+msgid "Error 404 - Not found"
+msgstr ""
+
+#: ckanext/csa/templates/error_document_template.html:11
+msgid "The server cannot find anything matching the requested URL"
 msgstr ""
 
 #: ckanext/csa/templates/footer.html:8 ckanext/csa/templates/footer.html:10

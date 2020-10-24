@@ -1535,6 +1535,7 @@ ckanext/csa/i18n/fr/LC_MESSAGES/old/ckanext-csa-backup.mo
 ckanext/csa/public/csa_theme.css
 ckanext/csa/public/licenses.json
 ckanext/csa/templates/base.html
+ckanext/csa/templates/error_document_template.html
 ckanext/csa/templates/footer.html
 ckanext/csa/templates/header.html
 ckanext/csa/templates/header3.html
